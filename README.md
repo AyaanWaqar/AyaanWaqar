@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,29 +75,29 @@
 
         <!-- Project 3 -->
         <div class="project-card">
-            <a href="https://github.com/username/project3-repo" target="_blank">
+            <a href="https://github.com/AyaanWaqar/DiabeticFoot" target="_blank">
                 <img src="project3.jpg" alt="Project 3">
             </a>
-            <h3>Project Title 3</h3>
-            <p>A brief description of Project 3. Explain the purpose and technology used.</p>
+            <h3>Diabetic Foot Analyzer</h3>
+            <p>A device devloped for Diabetic Patients.</p>
         </div>
 
         <!-- Project 4 -->
         <div class="project-card">
-            <a href="https://github.com/username/project4-repo" target="_blank">
+            <a href="https://github.com/AyaanWaqar/FingerPrintDoorLock" target="_blank">
                 <img src="project4.jpg" alt="Project 4">
             </a>
-            <h3>Project Title 4</h3>
-            <p>A brief description of Project 4. Explain the purpose and technology used.</p>
+            <h3>FingerPrint DoorLock</h3>
+            <p>A lock developed using a fingerprint sensor, servo motor and LCD.</p>
         </div>
 
         <!-- Project 5 -->
         <div class="project-card">
-            <a href="https://github.com/username/project5-repo" target="_blank">
+            <a href="https://github.com/AyaanWaqar/BluetoothRC" target="_blank">
                 <img src="project5.jpg" alt="Project 5">
             </a>
-            <h3>Project Title 5</h3>
-            <p>A brief description of Project 5. Explain the purpose and technology used.</p>
+            <h3>Bluetooth Controlled RC Car</h3>
+            <p>An RC car controlled via a bluetooth module.</p>
         </div>
 
         <!-- Project 6 -->
