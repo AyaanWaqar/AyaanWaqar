@@ -117,7 +117,7 @@
         <!-- Project Cards Start -->
 
         <div class="project-card">
-            <a href="https://github.com/username/epilet-repo" target="_blank">
+            <a href="https://github.com/AyaanWaqar/Epilet-Watch" target="_blank">
                 <img src="Project1.jpg" alt="Project 1">
                 <div class="project-card-content">
                     <h3>The Epilet</h3>
