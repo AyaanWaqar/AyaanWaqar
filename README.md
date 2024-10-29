@@ -34,8 +34,8 @@
             text-align: center;
         }
         .project-card img {
-            width: 100px;
-            height: 100px;
+            width: 250px;
+            height: 250px;
             margin: 1em auto;
             display: block;
             transition: transform 0.3s ease;
@@ -71,7 +71,7 @@
                 <img src="project2.jpg" alt="Project 2">
             </a>
             <h3>Autonomous Car</h3>
-            <p>A brief description of Project 2. Explain the purpose and technology used.</p>
+            <p>RC car developed using UltraSonic Sensor to maneuver around obstacles.</p>
         </div>
 
         <!-- Project 3 -->
