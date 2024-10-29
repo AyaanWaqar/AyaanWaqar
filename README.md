@@ -109,7 +109,7 @@
 </head>
 <body>
     <div class="header">
-        <h1>Ayaan Waqar -Projects</h1>
+        <h1>Ayaan Waqar - Projects</h1>
         <p>Welcome to my project portfolio. Here you'll find some of the projects I've been working on, including RC cars, sensors, IoT devices, and more, each built to push boundaries and explore possibilities in technology.</p>
     </div>
 
