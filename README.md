@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -54,15 +53,15 @@
     <div class="container">
         <!-- Project 1 -->
         <div class="project-card">
-            <img src="project1.jpg" alt="Project 1">
-            <h3>Project Title 1</h3>
-            <p>A brief description of Project 1. Explain the purpose and technology used.</p>
+            <img src="Project1.jpg" alt="Project 1">
+            <h3>The Epilet</h3>
+            <p>A band for epilepsy patients that allows tonic-clonic siezure detection and alerts </p>
         </div>
 
         <!-- Project 2 -->
         <div class="project-card">
             <img src="project2.jpg" alt="Project 2">
-            <h3>Project Title 2</h3>
+            <h3>Autonomous Car</h3>
             <p>A brief description of Project 2. Explain the purpose and technology used.</p>
         </div>
 
