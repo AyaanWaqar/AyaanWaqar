@@ -183,6 +183,25 @@
             <h3>Motion Detection</h3>
             <p>The use of motion sensors to pick up movement.</p>
         </div>
+
+        <!-- Project 15 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/LDR-IR-Sesnors" target="_blank">
+                <img src="project15.jpeg" alt="Project 15">
+            </a>
+            <h3>LDR-IR Sensor use</h3>
+            <p>Using these two sensors individually to understand their working.</p>
+        </div>
+
+        <!-- Project 16 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/LEDs" target="_blank">
+                <img src="project16.jpg" alt="Project 16">
+            </a>
+            <h3>LEDs</h3>
+            <p>Starting from the basic LEDs and working up to using them in more advanced projects.</p>
+        </div>
+        
     </div>
 </body>
 </html>
