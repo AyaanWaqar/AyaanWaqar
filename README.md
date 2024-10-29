@@ -94,7 +94,7 @@
         <!-- Project 5 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/BluetoothRC" target="_blank">
-                <img src="project5.jpg" alt="Project 5">
+                <img src="project5.jpeg" alt="Project 5">
             </a>
             <h3>Bluetooth Controlled RC Car</h3>
             <p>An RC car controlled via a bluetooth module.</p>
@@ -102,38 +102,38 @@
 
         <!-- Project 6 -->
         <div class="project-card">
-            <a href="https://github.com/username/project6-repo" target="_blank">
+            <a href="https://github.com/AyaanWaqar/LCDWork" target="_blank">
                 <img src="project6.jpg" alt="Project 6">
             </a>
-            <h3>Project Title 6</h3>
-            <p>A brief description of Project 6. Explain the purpose and technology used.</p>
+            <h3>LCD Projects</h3>
+            <p>The use of LCDs in various operations.</p>
         </div>
 
         <!-- Project 7 -->
         <div class="project-card">
-            <a href="https://github.com/username/project7-repo" target="_blank">
+            <a href="https://github.com/AyaanWaqar/RelayModules" target="_blank">
                 <img src="project7.jpg" alt="Project 7">
             </a>
-            <h3>Project Title 7</h3>
-            <p>A brief description of Project 7. Explain the purpose and technology used.</p>
+            <h3>Relay Module</h3>
+            <p>The use of relay switches to allow high voltage components to be used with arduino</p>
         </div>
 
         <!-- Project 8 -->
         <div class="project-card">
-            <a href="https://github.com/username/project8-repo" target="_blank">
-                <img src="project8.jpg" alt="Project 8">
+            <a href="https://github.com/AyaanWaqar/TempSensor" target="_blank">
+                <img src="project8.jpeg" alt="Project 8">
             </a>
-            <h3>Project Title 8</h3>
-            <p>A brief description of Project 8. Explain the purpose and technology used.</p>
+            <h3>MLX Temperature Sensor</h3>
+            <p>The use of temperature sensors to input farenhiet and celcius readings</p>
         </div>
 
         <!-- Project 9 -->
         <div class="project-card">
-            <a href="https://github.com/username/project9-repo" target="_blank">
-                <img src="project9.jpg" alt="Project 9">
+            <a href="https://github.com/AyaanWaqar/HardCodeRc" target="_blank">
+                <img src="project9.jpeg" alt="Project 9">
             </a>
-            <h3>Project Title 9</h3>
-            <p>A brief description of Project 9. Explain the purpose and technology used.</p>
+            <h3>Hard Coded RC car</h3>
+            <p>Hard Coding a car to complete specific timed trials.</p>
         </div>
 
         <!-- Project 10 -->
