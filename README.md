@@ -2,17 +2,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ayaan Waqar</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color: #292828;
             margin: 0;
             padding: 0;
             color: #333;
         }
         .header {
-            background-color: #007bff;
+            background-color: #000;
             color: white;
             padding: 1em 0;
             text-align: center;
