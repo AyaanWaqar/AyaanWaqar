@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -138,18 +137,118 @@
             </a>
         </div>
 
-        <!-- Add more project cards in the same format -->
-
-        <!-- Project 16 (Example for the last project) -->
+        <!-- Project 4 -->
         <div class="project-card">
-            <a href="https://github.com/AyaanWaqar/LEDs" target="_blank">
-                <img src="project16.jpg" alt="Project 16">
+            <a href="https://github.com/AyaanWaqar/FingerPrintDoorLock" target="_blank">
+                <img src="project4.jpg" alt="Project 4">
                 <div class="project-card-content">
-                    <h3>LEDs</h3>
-                    <p>Starting from the basics with LEDs and advancing to more complex projects.</p>
+                    <h3>FingerPrint DoorLock</h3>
+                    <p>A lock developed using a fingerprint sensor, servo motor and LCD.</p>
                 </div>
             </a>
         </div>
-    </div>
-</body>
-</html>
+
+        <!-- Project 5 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/BluetoothRC" target="_blank">
+                <img src="project5.jpeg" alt="Project 5">
+                <div class="project-card-content">
+                    <h3>Bluetooth Controlled RC Car</h3>
+                    <p>An RC car controlled via a bluetooth module.</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project 6 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/LCDWork" target="_blank">
+                <img src="project6.jpg" alt="Project 6">
+                <div class="project-card-content">
+                    <h3>LCD Projects</h3>
+                    <p>The use of LCDs in various operations.</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project 7 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/RelayModules" target="_blank">
+                <img src="Project7.jpg" alt="Project 7">
+                <div class="project-card-content">
+                    <h3>Relay Module</h3>
+                    <p>The use of relay switches to allow high voltage components to be used with arduino</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project 8 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/TempSensor" target="_blank">
+                <img src="project8.jpeg" alt="Project 8">
+                <div class="project-card-content">
+                    <h3>MLX Temperature Sensor</h3>
+                    <p>The use of temperature sensors to input farenhiet and celcius readings</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project 9 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/HardCodeRc" target="_blank">
+                <img src="project9.jpeg" alt="Project 9">
+                <div class="project-card-content">
+                    <h3>Hard Coded RC car</h3>
+                    <p>Hard Coding a car to complete specific timed trials.</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project 10 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/SoundSensor" target="_blank">
+                <img src="project10.jpeg" alt="Project 10">
+                <div class="project-card-content">
+                    <h3>Sound Detection</h3>
+                    <p>Detecting a clap to switch lights on and off.</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project 11 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/LineFollowingRc" target="_blank">
+                <img src="project11.jpeg" alt="Project 11">
+                <div class="project-card-content">
+                    <h3>Line Following RC Car</h3>
+                    <p>Created a line following RC car using numerous IR sensors.</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project 12 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/BluetoothComponents" target="_blank">
+                <img src="project12.jpeg" alt="Project 12">
+                <div class="project-card-content">
+                    <h3>Bluetooth with Components</h3>
+                    <p>The use of Bluetooth to manipulate various components.</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project 13 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/ServoMotor" target="_blank">
+                <img src="project13.jpeg" alt="Project 13">
+                <div class="project-card-content">
+                    <h3>Servo Motor Use</h3>
+                    <p>The use of a servo motor in various projects.</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project 14 -->
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/MotionSensor" target="_blank">
+                <img src="project14.jpeg" alt="Project 14">
+                <
