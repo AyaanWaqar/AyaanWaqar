@@ -43,7 +43,7 @@
         /* Projects Container */
         .container {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            grid-template-columns: repeat(3, 1fr); /* Three columns */
             gap: 20px;
             width: 100%;
             max-width: 1200px;
@@ -86,7 +86,17 @@
         }
 
         /* Responsive Styling */
+        @media (max-width: 900px) {
+            .container {
+                grid-template-columns: repeat(2, 1fr); /* Two columns on medium screens */
+            }
+        }
+
         @media (max-width: 600px) {
+            .container {
+                grid-template-columns: 1fr; /* Single column on small screens */
+            }
+            
             .header h1 {
                 font-size: 2em;
             }
@@ -104,7 +114,8 @@
     </div>
 
     <div class="container">
-        <!-- Project 1 -->
+        <!-- Project Cards Start -->
+
         <div class="project-card">
             <a href="https://github.com/username/epilet-repo" target="_blank">
                 <img src="Project1.jpg" alt="Project 1">
@@ -115,7 +126,6 @@
             </a>
         </div>
 
-        <!-- Project 2 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/Obstacle-Avoiding-RCcars" target="_blank">
                 <img src="project2.jpg" alt="Project 2">
@@ -126,7 +136,6 @@
             </a>
         </div>
 
-        <!-- Project 3 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/DiabeticFoot" target="_blank">
                 <img src="project3.jpg" alt="Project 3">
@@ -137,29 +146,26 @@
             </a>
         </div>
 
-        <!-- Project 4 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/FingerPrintDoorLock" target="_blank">
                 <img src="project4.jpg" alt="Project 4">
                 <div class="project-card-content">
                     <h3>FingerPrint DoorLock</h3>
-                    <p>A lock developed using a fingerprint sensor, servo motor and LCD.</p>
+                    <p>A lock developed using a fingerprint sensor, servo motor, and LCD.</p>
                 </div>
             </a>
         </div>
 
-        <!-- Project 5 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/BluetoothRC" target="_blank">
                 <img src="project5.jpeg" alt="Project 5">
                 <div class="project-card-content">
                     <h3>Bluetooth Controlled RC Car</h3>
-                    <p>An RC car controlled via a bluetooth module.</p>
+                    <p>An RC car controlled via a Bluetooth module.</p>
                 </div>
             </a>
         </div>
 
-        <!-- Project 6 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/LCDWork" target="_blank">
                 <img src="project6.jpg" alt="Project 6">
@@ -170,40 +176,36 @@
             </a>
         </div>
 
-        <!-- Project 7 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/RelayModules" target="_blank">
                 <img src="Project7.jpg" alt="Project 7">
                 <div class="project-card-content">
                     <h3>Relay Module</h3>
-                    <p>The use of relay switches to allow high voltage components to be used with arduino</p>
+                    <p>The use of relay switches to allow high voltage components to be used with Arduino.</p>
                 </div>
             </a>
         </div>
 
-        <!-- Project 8 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/TempSensor" target="_blank">
                 <img src="project8.jpeg" alt="Project 8">
                 <div class="project-card-content">
                     <h3>MLX Temperature Sensor</h3>
-                    <p>The use of temperature sensors to input farenhiet and celcius readings</p>
+                    <p>The use of temperature sensors to display Fahrenheit and Celsius readings.</p>
                 </div>
             </a>
         </div>
 
-        <!-- Project 9 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/HardCodeRc" target="_blank">
                 <img src="project9.jpeg" alt="Project 9">
                 <div class="project-card-content">
                     <h3>Hard Coded RC car</h3>
-                    <p>Hard Coding a car to complete specific timed trials.</p>
+                    <p>Hard coding an RC car to complete specific timed trials.</p>
                 </div>
             </a>
         </div>
 
-        <!-- Project 10 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/SoundSensor" target="_blank">
                 <img src="project10.jpeg" alt="Project 10">
@@ -214,18 +216,16 @@
             </a>
         </div>
 
-        <!-- Project 11 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/LineFollowingRc" target="_blank">
                 <img src="project11.jpeg" alt="Project 11">
                 <div class="project-card-content">
                     <h3>Line Following RC Car</h3>
-                    <p>Created a line following RC car using numerous IR sensors.</p>
+                    <p>Created a line following RC car using multiple IR sensors.</p>
                 </div>
             </a>
         </div>
 
-        <!-- Project 12 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/BluetoothComponents" target="_blank">
                 <img src="project12.jpeg" alt="Project 12">
@@ -236,7 +236,6 @@
             </a>
         </div>
 
-        <!-- Project 13 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/ServoMotor" target="_blank">
                 <img src="project13.jpeg" alt="Project 13">
@@ -247,8 +246,37 @@
             </a>
         </div>
 
-        <!-- Project 14 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/MotionSensor" target="_blank">
                 <img src="project14.jpeg" alt="Project 14">
-                <
+                <div class="project-card-content">
+                    <h3>Motion Detection</h3>
+                    <p>The use of motion sensors to pick up movement.</p>
+                </div>
+            </a>
+        </div>
+
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/LDR-IR-Sensors" target="_blank">
+                <img src="project15.jpeg" alt="Project 15">
+                <div class="project-card-content">
+                    <h3>LDR-IR Sensor Use</h3>
+                    <p>Using these sensors individually to understand their functionality.</p>
+                </div>
+            </a>
+        </div>
+
+        <div class="project-card">
+            <a href="https://github.com/AyaanWaqar/LEDs" target="_blank">
+                <img src="project16.jpg" alt="Project 16">
+                <div class="project-card-content">
+                    <h3>LEDs</h3>
+                    <p>Starting from the basics with LEDs and advancing to more complex projects.</p>
+                </div>
+            </a>
+        </div>
+
+        <!-- Project Cards End -->
+    </div>
+</body>
+</html>
