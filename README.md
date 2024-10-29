@@ -11,10 +11,14 @@
             color: #333;
         }
         .header {
-            background-color: #000;
+            background-color: #292828;
             color: white;
             padding: 1em 0;
             text-align: center;
+        }
+        .header h1 {
+            margin: 0; /* Remove margin to align text properly */
+            color: white; /* Ensure header text is white */
         }
         .container {
             display: flex;
