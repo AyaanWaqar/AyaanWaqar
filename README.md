@@ -166,7 +166,7 @@
         <!-- Project 13 -->
         <div class="project-card">
             <a href="https://github.com/username/project13-repo" target="_blank">
-                <img src="project13.jpg" alt="Project 13">
+                <img src="project13.jpg" alt="Project 13"> 
             </a>
             <h3>Project Title 13</h3>
             <p>A brief description of Project 13. Explain the purpose and technology used.</p>
