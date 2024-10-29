@@ -41,7 +41,7 @@
             transition: transform 0.3s ease;
         }
         .project-card img:hover {
-            transform: scale(1.1); /* Slight zoom on hover */
+            transform: scale(1.1);
         }
         .project-card h3 {
             margin: 0.5em 0;
@@ -83,8 +83,104 @@
             <p>A brief description of Project 3. Explain the purpose and technology used.</p>
         </div>
 
-        <!-- Add more projects as needed -->
+        <!-- Project 4 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project4-repo" target="_blank">
+                <img src="project4.jpg" alt="Project 4">
+            </a>
+            <h3>Project Title 4</h3>
+            <p>A brief description of Project 4. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 5 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project5-repo" target="_blank">
+                <img src="project5.jpg" alt="Project 5">
+            </a>
+            <h3>Project Title 5</h3>
+            <p>A brief description of Project 5. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 6 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project6-repo" target="_blank">
+                <img src="project6.jpg" alt="Project 6">
+            </a>
+            <h3>Project Title 6</h3>
+            <p>A brief description of Project 6. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 7 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project7-repo" target="_blank">
+                <img src="project7.jpg" alt="Project 7">
+            </a>
+            <h3>Project Title 7</h3>
+            <p>A brief description of Project 7. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 8 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project8-repo" target="_blank">
+                <img src="project8.jpg" alt="Project 8">
+            </a>
+            <h3>Project Title 8</h3>
+            <p>A brief description of Project 8. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 9 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project9-repo" target="_blank">
+                <img src="project9.jpg" alt="Project 9">
+            </a>
+            <h3>Project Title 9</h3>
+            <p>A brief description of Project 9. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 10 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project10-repo" target="_blank">
+                <img src="project10.jpg" alt="Project 10">
+            </a>
+            <h3>Project Title 10</h3>
+            <p>A brief description of Project 10. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 11 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project11-repo" target="_blank">
+                <img src="project11.jpg" alt="Project 11">
+            </a>
+            <h3>Project Title 11</h3>
+            <p>A brief description of Project 11. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 12 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project12-repo" target="_blank">
+                <img src="project12.jpg" alt="Project 12">
+            </a>
+            <h3>Project Title 12</h3>
+            <p>A brief description of Project 12. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 13 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project13-repo" target="_blank">
+                <img src="project13.jpg" alt="Project 13">
+            </a>
+            <h3>Project Title 13</h3>
+            <p>A brief description of Project 13. Explain the purpose and technology used.</p>
+        </div>
+
+        <!-- Project 14 -->
+        <div class="project-card">
+            <a href="https://github.com/username/project14-repo" target="_blank">
+                <img src="project14.jpg" alt="Project 14">
+            </a>
+            <h3>Project Title 14</h3>
+            <p>A brief description of Project 14. Explain the purpose and technology used.</p>
+        </div>
     </div>
 </body>
 </html>
-
