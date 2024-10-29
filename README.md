@@ -112,7 +112,7 @@
         <!-- Project 7 -->
         <div class="project-card">
             <a href="https://github.com/AyaanWaqar/RelayModules" target="_blank">
-                <img src="project7.jpg" alt="Project 7">
+                <img src="Project7.jpg" alt="Project 7">
             </a>
             <h3>Relay Module</h3>
             <p>The use of relay switches to allow high voltage components to be used with arduino</p>
@@ -138,47 +138,47 @@
 
         <!-- Project 10 -->
         <div class="project-card">
-            <a href="https://github.com/username/project10-repo" target="_blank">
-                <img src="project10.jpg" alt="Project 10">
+            <a href="https://github.com/AyaanWaqar/SoundSensor" target="_blank">
+                <img src="project10.jpeg" alt="Project 10">
             </a>
-            <h3>Project Title 10</h3>
-            <p>A brief description of Project 10. Explain the purpose and technology used.</p>
+            <h3>Sound Detection</h3>
+            <p>Detecting a clap to switch lights on and off.</p>
         </div>
 
         <!-- Project 11 -->
         <div class="project-card">
-            <a href="https://github.com/username/project11-repo" target="_blank">
-                <img src="project11.jpg" alt="Project 11">
+            <a href="https://github.com/AyaanWaqar/LineFollowingRc" target="_blank">
+                <img src="project11.jpeg" alt="Project 11">
             </a>
-            <h3>Project Title 11</h3>
-            <p>A brief description of Project 11. Explain the purpose and technology used.</p>
+            <h3>Line Following RC Car</h3>
+            <p>Created a line following RC car using numerious IR sensors.</p>
         </div>
 
         <!-- Project 12 -->
         <div class="project-card">
-            <a href="https://github.com/username/project12-repo" target="_blank">
-                <img src="project12.jpg" alt="Project 12">
+            <a href="https://github.com/AyaanWaqar/BluetoothComponents" target="_blank">
+                <img src="project12.jpeg" alt="Project 12">
             </a>
-            <h3>Project Title 12</h3>
-            <p>A brief description of Project 12. Explain the purpose and technology used.</p>
+            <h3>Bluetooth with Components</h3>
+            <p>The use of Bluetooth to manipulate various components.</p>
         </div>
 
         <!-- Project 13 -->
         <div class="project-card">
-            <a href="https://github.com/username/project13-repo" target="_blank">
-                <img src="project13.jpg" alt="Project 13"> 
+            <a href="https://github.com/AyaanWaqar/ServoMotor" target="_blank">
+                <img src="project13.jpeg" alt="Project 13"> 
             </a>
-            <h3>Project Title 13</h3>
-            <p>A brief description of Project 13. Explain the purpose and technology used.</p>
+            <h3>Servo Motor Use</h3>
+            <p>The use of a servo motor in various projects.</p>
         </div>
 
         <!-- Project 14 -->
         <div class="project-card">
-            <a href="https://github.com/username/project14-repo" target="_blank">
-                <img src="project14.jpg" alt="Project 14">
+            <a href="https://github.com/AyaanWaqar/MotionSensor" target="_blank">
+                <img src="project14.jpeg" alt="Project 14">
             </a>
-            <h3>Project Title 14</h3>
-            <p>A brief description of Project 14. Explain the purpose and technology used.</p>
+            <h3>Motion Detection</h3>
+            <p>The use of motion sensors to pick up movement.</p>
         </div>
     </div>
 </body>
