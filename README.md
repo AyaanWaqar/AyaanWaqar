@@ -392,7 +392,7 @@ function imgTile(pid, n, cls, phInner){
   var img = document.createElement('img');
   img.alt = "";
   img.loading = "lazy";
-  img.src = "images/" + pid + "-" + n + ".jpg";
+  img.src = pid + "-" + n + ".jpg";
   var ph = document.createElement('div');
   ph.className = "ph";
   ph.innerHTML = phInner;
@@ -413,7 +413,7 @@ function renderCards(){
     thumb.className = 'thumb' + (p.logo ? ' logo' : '');
     var img = document.createElement('img');
     img.alt = ""; img.loading = "lazy";
-    img.src = "images/" + p.id + "-1.jpg";
+    img.src = p.id + "-1.jpg";
     var ph = document.createElement('div');
     ph.className = 'ph'; ph.textContent = p.initial;
     img.onerror = function(){ img.remove(); };
@@ -454,7 +454,7 @@ function renderFoundations(){
     if(f[3]){
       var img = document.createElement('img');
       img.alt = f[0]; img.loading = "lazy";
-      img.src = "images/f-" + f[3] + ".jpg";
+      img.src = "f-" + f[3] + ".jpg";
       var ph = document.createElement('div'); ph.className='ph'; ph.textContent=initials;
       img.onerror = function(){ img.remove(); };
       img.onload = function(){ ph.remove(); };
@@ -521,7 +521,7 @@ function renderDetail(p){
     img.onerror = function(){
       t.innerHTML = '<div class="ph"><b>'+p.initial+'</b><span>photo '+(idx+1)+'</span></div>';
     };
-    img.src = "images/" + key + ".jpg";
+    img.src = key + ".jpg";
   });
 
   document.getElementById('backBtn').addEventListener('click', function(){ location.hash=''; });
